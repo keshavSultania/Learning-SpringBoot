@@ -14,7 +14,8 @@ public class SayHello2 {
         return Arrays.asList(
                 new topic("1","Spring-1","Java-1"),
                 new topic("2","Spring-2","Java-2"),
-                new topic("3","Spring-3","Java-3")
+                new topic("3","Spring-3","Java-3"),
+                new topic("4","Spring-4","Java-4")
         );
     }
 }
